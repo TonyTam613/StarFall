@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1547813186 source:c:\users\seepa\documents\github\starfall\tam_tony_summative 7\summative_function_database.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	"Summative_Header.h"
+
+1547813186 c:\users\seepa\documents\github\starfall\tam_tony_summative 7\summative_header.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+
+1547813186 source:c:\users\seepa\documents\github\starfall\tam_tony_summative 7\summative_main.cpp
+	"Summative_Header.h"
+
