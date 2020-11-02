@@ -1,0 +1,263 @@
+# depslib dependency file v1.0
+1545410713 source:p:\ics3u (gr.11) tony tam\tam_tony_summative\summative_main.cpp
+	<stdio.h>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	"Summative_Header.h"
+
+1545314061 source:p:\ics3u (gr.11) tony tam\tam_tony_summative\summative_function_database.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	"Summative_Header.h"
+
+1545236643 p:\ics3u (gr.11) tony tam\tam_tony_summative\summative_header.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+
+1546827744 source:c:\users\seepa_000\downloads\tam_tony_summative\tam_tony_summative\summative_function_database.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	"Summative_Header.h"
+
+1546827468 c:\users\seepa_000\downloads\tam_tony_summative\tam_tony_summative\summative_header.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+
+1546823037 source:c:\users\seepa_000\downloads\tam_tony_summative\tam_tony_summative\summative_main.cpp
+	"Summative_Header.h"
+
+1546877446 source:p:\tam_tony_summative\summative_function_database.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	"Summative_Header.h"
+
+1546877348 p:\tam_tony_summative\summative_header.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+
+1546877348 source:p:\tam_tony_summative\summative_main.cpp
+	"Summative_Header.h"
+
+1546899870 source:c:\users\seepa_000\downloads\tam_tony_summative 2\summative_function_database.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	"Summative_Header.h"
+
+1546867662 c:\users\seepa_000\downloads\tam_tony_summative 2\summative_header.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+
+1546900288 source:c:\users\seepa_000\downloads\tam_tony_summative 2\summative_main.cpp
+	"Summative_Header.h"
+
+1546959266 source:p:\tam_tony_summative 2\summative_function_database.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	"Summative_Header.h"
+
+1546959469 p:\tam_tony_summative 2\summative_header.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+
+1546959765 source:p:\tam_tony_summative 2\summative_main.cpp
+	"Summative_Header.h"
+
+1547004497 source:c:\users\seepa_000\downloads\tam_tony_summative 3\summative_function_database.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	"Summative_Header.h"
+
+1547005481 c:\users\seepa_000\downloads\tam_tony_summative 3\summative_header.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+
+1547005548 source:c:\users\seepa_000\downloads\tam_tony_summative 3\summative_main.cpp
+	"Summative_Header.h"
+
+1547053870 source:p:\tam_tony_summative 3\summative_function_database.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	"Summative_Header.h"
+
+1547054235 p:\tam_tony_summative 3\summative_header.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+
+1547054206 source:p:\tam_tony_summative 3\summative_main.cpp
+	"Summative_Header.h"
+
+1547076933 source:c:\users\seepa_000\downloads\tam_tony_summative 4\summative_function_database.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	"Summative_Header.h"
+
+1547076738 c:\users\seepa_000\downloads\tam_tony_summative 4\summative_header.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+
+1547087805 source:c:\users\seepa_000\downloads\tam_tony_summative 4\summative_main.cpp
+	"Summative_Header.h"
+
+1547130587 source:p:\tam_tony_summative 5\summative_function_database.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	"Summative_Header.h"
+
+1547132058 p:\tam_tony_summative 5\summative_header.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+
+1547131728 source:p:\tam_tony_summative 5\summative_main.cpp
+	"Summative_Header.h"
+
+1547475909 source:p:\tam_tony_summative 6\summative_function_database.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	"Summative_Header.h"
+
+1547475095 p:\tam_tony_summative 6\summative_header.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+
+1547478182 source:p:\tam_tony_summative 6\summative_main.cpp
+	"Summative_Header.h"
+
+1547603070 source:c:\users\seepa_000\downloads\tam_tony_summative 7\summative_function_database.cpp
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	"Summative_Header.h"
+
+1547471070 c:\users\seepa_000\downloads\tam_tony_summative 7\summative_header.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<string.h>
+	<cstdio>
+	<time.h>
+
+1596851716 source:c:\users\seepa_000\downloads\tam_tony_summative 7\summative_main.cpp
+	"Summative_Header.h"
+
